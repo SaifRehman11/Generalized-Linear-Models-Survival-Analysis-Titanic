@@ -1,0 +1,2 @@
+# Generalized-Linear-Models-Survival-Analysis-Titanic
+This is a classwork assignment for my generalized linear models class based on statistical analysis and survival analysis for a modified version of the Titanic dataset. In this assignment, I utilize a binomial logistic regression, along with data visualization, feature engineering, and statistical analysis, to predict the survival of Titanic passengers and to extract trends and insight from the Titanic dataset. 
